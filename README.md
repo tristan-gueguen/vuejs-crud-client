@@ -1,4 +1,5 @@
 # vue-js-client-crud
+Simple CRUD client built with axios and vuetify. Communicates with simple-nodejs-express-mongodb.
 
 ## Project setup
 ```
